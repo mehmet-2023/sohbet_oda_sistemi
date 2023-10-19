@@ -42,7 +42,7 @@ Bu programı çalıştırmak için aşağıdaki gereksinimlere ihtiyacınız var
 
 Bu kod, MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
 
-##Credits
+## Credits
 NSFW kontrolü için @ooguz tarafından Github'da paylaşılan bir dosya kullanılmıştır.
 
 ## Yazar
