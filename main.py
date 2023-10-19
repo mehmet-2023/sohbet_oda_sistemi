@@ -137,7 +137,7 @@ def cikis_yapildi():
     os._exit(1)
 # Arayüzü Kur
 title = Label(window, text="Sohbet Odaları", font=("Bold", 16))
-description = Label(window, text="Oda kur, odaya katıl veya global odalara giriş yap.")
+description = Label(window, text="Oda kur veya bir odaya katıl.")
 blank_1 = Label()
 create_frame = Frame(window)
 create_text = Label(create_frame, text="Oda Oluştur")
@@ -147,7 +147,6 @@ join_frame = Frame(window)
 join_text = Label(join_frame, text="Odaya Katıl")
 join_entry = HintedEntry(join_frame, hint="Oda Kodunuzu Girin...")
 blank_3 = Label(window, font=("Arial", 4))
-button_global = Button(text="Global Odalara Katılın", width=35)
 
 def roomjoin():
     global window2
@@ -207,6 +206,5 @@ join_button.grid(row=4, column=2)
 join_text.grid(row=2, column=2)
 join_entry.grid(row=3, column=2)
 blank_3.grid(row=5, column=0, columnspan=2)
-button_global.grid(row=6, column=0, columnspan=3)
 # Loop
 window.mainloop()
