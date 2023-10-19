@@ -47,6 +47,5 @@ NSFW kontrolü için @ooguz tarafından Github'da paylaşılan bir dosya kullan�
 
 ## Yazar
 
-Discord: adlf_htlr
-Github: mehmet-2023
-Sorularınız için: agentsoftwareteam@gmail.com
+- Discord: adlf_htlr
+- Github: mehmet-2023
